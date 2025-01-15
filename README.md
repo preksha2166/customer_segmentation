@@ -93,8 +93,8 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ## Contact
 For any questions or issues, please contact:
 - **Chirag Patankar**
-- Email: [officialchiragp1605@gmail.com]
-- GitHub: [ChiragPatankar]
+- Email: [officialpreksha2166@gmail.com]
+- GitHub: [preksha2166]
 
 ## Visualizations
 
